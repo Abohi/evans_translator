@@ -106,7 +106,7 @@ class _HomePageState extends State<HomePage>
                   onTextTouched: this._onTextTouched,
                   translatedText: this.translatedT,
                 ),
-              ),//kkk
+              ),
               
               Offstage(
                 offstage: !this._isTextTouched,
