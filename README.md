@@ -2,8 +2,8 @@
 
 A translator built for the purpose of teaching flutter and firebase machine learning kit
 
-## Structure
+## What we built
 
-This is the complete project.
+![Alt text](assets\Ml Translator.gif?raw=true "Machin learning Translator")
 
 
