@@ -4,5 +4,5 @@ A translator built for the purpose of teaching flutter and firebase machine lear
 
 ## What we built
 
-![](Ml Translator.gif)
+![Machine learning Translator](mltranslator.gif)
 
